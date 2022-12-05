@@ -1,6 +1,6 @@
 {
-  "name": "@square/svelte-store",
-  "version": "1.0.10",
+  "name": "@miedzikd/svelte-store",
+  "version": "1.0.11",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/square/svelte-store.git"
+    "url": "https://github.com/miedzikd/svelte-store.git"
   },
   "scripts": {
     "build": "yarn cleanup && tsc",
